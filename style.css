@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Body and general styling */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
@@ -12,7 +11,7 @@ body {
     line-height: 1.6;
 }
 
-/* Header styling */
+
 header {
     background-color: #4CAF50;
     color: white;
@@ -44,7 +43,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Main content styling */
+
 main {
     padding: 20px;
 }
@@ -75,7 +74,7 @@ ul li:hover {
     background-color: #e1f7e1;
 }
 
-/* Footer styling */
+
 footer {
     text-align: center;
     padding: 10px;
